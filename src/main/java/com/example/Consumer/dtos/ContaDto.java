@@ -24,5 +24,4 @@ public class ContaDto implements Serializable {
     private EnumTipoDaConta tipoDaConta;      // PESSOA_FISICA, PESSOA_JURIDICA, GOVERNAMENTAL
 
     private int saqueSemTaxa;
-
 }
